@@ -1,4 +1,4 @@
-### Hi there 👋
+[![PepperLola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepperLola)](https://github.com/PepperLola/github-readme-stats)
 
 <!--
 **PepperLola/PepperLola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
