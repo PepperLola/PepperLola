@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on nothing at the moment.
 - 🤔 I’m looking for help with nothing at the moment.
 
-[![PepperLola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepperLola&theme=dark&show-icons=true)](https://github.com/PepperLola/)
+[![PepperLola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepperLola&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/)
