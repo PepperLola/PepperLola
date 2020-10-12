@@ -13,3 +13,6 @@
 [![PepperLola's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepperLola&layout=compact)](https://github.com/anuraghazra/github-readme-stats/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PepperLola)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
