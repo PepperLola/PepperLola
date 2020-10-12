@@ -57,7 +57,6 @@ Sunday       131 commits    █████░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
 HTML                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   27.3% 
