@@ -1,11 +1,4 @@
-
-### About Me
-
-- 🔭 I’m currently working on a Minecraft client/mod.
-- 🌱 I’m currently learning about REST APIs and stuff.
-- 👯 I’m looking to collaborate on nothing at the moment.
-- 🤔 I’m looking for help with nothing at the moment.
-
+# Hi, I'm PepperLola
 ![Trophies!](https://github-profile-trophy.vercel.app/?username=PepperLola&column=10&theme=chalk)
 
 [![PepperLola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepperLola&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/)
