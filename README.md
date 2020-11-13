@@ -2,7 +2,7 @@
 ![Trophies!](https://github-profile-trophy.vercel.app/?username=PepperLola&column=10&theme=chalk)
 
 <details>
- <summary>GitHub Stats</details>
+ <summary>GitHub Stats</summary>
 [![PepperLola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepperLola&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/)
 
 [![PepperLola's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepperLola&layout=compact)](https://github.com/anuraghazra/github-readme-stats/)
