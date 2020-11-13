@@ -130,3 +130,12 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details>
+
+<details>
+ <summary>Other</summary>
+ 
+ ### Hypixel
+ 
+ ![Hypixel Level](https://widgets.jerlshoba.com/hypixel/networkLevel.png?username=palight&fg=%232288ff&bg=%23ffffff&style=progress&border=2)
+ 
+</details>
