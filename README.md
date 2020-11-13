@@ -1,12 +1,17 @@
 # Hi, I'm PepperLola
 ![Trophies!](https://github-profile-trophy.vercel.app/?username=PepperLola&column=10&theme=chalk)
 
+<details>
+ <summary>GitHub Stats</details>
 [![PepperLola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepperLola&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/)
 
 [![PepperLola's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepperLola&layout=compact)](https://github.com/anuraghazra/github-readme-stats/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PepperLola)
+</details>
 
+<details>
+ <summary>Programming Stats</summary>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
@@ -83,3 +88,4 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
