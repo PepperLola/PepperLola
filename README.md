@@ -136,6 +136,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
  
  ### Hypixel
  
- ![Hypixel Level](https://widgets.jerlshoba.com/hypixel/networkLevel.png?username=palight&fg=%232288ff&bg=%23ffffff&style=progress&border=2)
+ ![Hypixel Level](https://widgets.jerlshoba.com/hypixel/networkLevel.png?username=palight&width=512&height=64&fg=%23ffffff&bg=%232288ff&border=4&text_color=%232288ff&font_size=18&style=progress)
  
 </details>
