@@ -23,6 +23,13 @@
  ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Electron](https://img.shields.io/badge/electron%20-%23100000.svg?&style=for-the-badge&logo=electron&logoColor=white)
  ![Unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+ ### Editors
+ ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-666666?style=for-the-badge&logo=intellij%20idea&logoColor=black)
+ ![ViM](https://img.shields.io/badge/ViM-007700?style=for-the-badge&logo=vim&logoColor=white)
+ ![NeoVim](https://img.shields.io/badge/NeoVim-330077?style=for-the-badge&logo=neovim&logoColor=green)
+ ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  
  ### Version Control
  
@@ -32,6 +39,7 @@
  ### Services / Platforms
  
  ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+ ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
  ![TravisCI](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
