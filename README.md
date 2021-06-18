@@ -114,7 +114,8 @@ IntelliJ                 15 hrs 48 mins      ███████████�
 Vim                      1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.05%
 
 💻 Operating System: 
-Windows                  17 hrs 34 mins      █████████████████████████   100.0%
+Windows                  17 hrs 34 mins      █████████████████████████   100.0% 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
@@ -135,7 +136,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PepperLola/PepperLola/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2021
+ Last Updated on 18/06/2021
 <!--END_SECTION:waka-->
 </details>
 
