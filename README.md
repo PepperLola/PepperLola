@@ -116,8 +116,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 💻 Operating System: 
-Windows                  12 hrs 12 mins      █████████████████████████   100.0% 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Windows                  12 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
@@ -138,7 +137,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PepperLola/PepperLola/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/06/2021
+ Last Updated on 25/06/2021
 <!--END_SECTION:waka-->
 </details>
 
