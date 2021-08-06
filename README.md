@@ -103,14 +103,13 @@ Sunday       72 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 2 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 13 mins       █████████████████████░░░░   86.49% 
-Vim                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 2 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -131,7 +130,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PepperLola/PepperLola/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/08/2021
+ Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
 </details>
 
