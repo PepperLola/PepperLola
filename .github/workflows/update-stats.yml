@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.13
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
       - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
