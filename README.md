@@ -1,4 +1,5 @@
 # Hi, I'm PepperLola
+![Summary](https://raw.githubusercontent.com/PepperLola/PepperLola/master/github-metrics.svg)
 <details>
  <summary>Experience</summary>
  
