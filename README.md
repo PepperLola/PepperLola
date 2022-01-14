@@ -69,7 +69,7 @@
 
 > 🏆 8 Contributions in the Year 2022
  > 
-> 📦 406.2 kB Used in GitHub's Storage 
+> 📦 406.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,7 +108,7 @@ Java                     4 hrs 9 mins        ███████████�
 Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
 Groovy                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 IntelliJ                 4 hrs 18 mins       █████████████████████████   100.0% 
@@ -136,7 +136,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PepperLola/PepperLola/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2022
+ Last Updated on 14/01/2022
 <!--END_SECTION:waka-->
 </details>
 
