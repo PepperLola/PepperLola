@@ -69,7 +69,7 @@
 
 > 🏆 9 Contributions in the Year 2022
  > 
-> 📦 406.4 kB Used in GitHub's Storage 
+> 📦 406.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,7 +136,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PepperLola/PepperLola/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 </details>
 
