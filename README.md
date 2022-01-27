@@ -50,10 +50,10 @@
 <details>
  <summary>GitHub Stats</summary>
  
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PepperLola&theme=dark&show_icons=true&line_height=40" align="left" />
-<img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PepperLola&theme=github_dark" align="left" />
-<img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PepperLola&bg_color=0D1117&color=D7A74B&line=D27B4D&point=FFFFFF&hide_border=true" />
-<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=PepperLola&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PepperLola&theme=dark&show_icons=true&line_height=40" align="center" />
+<img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PepperLola&theme=github_dark" align="center" />
+<img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PepperLola&bg_color=0D1117&color=D7A74B&line=D27B4D&point=FFFFFF&hide_border=true" align="center" />
+<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=PepperLola&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" align="center" />
 
 [![PepperLola's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepperLola&theme=dark&hide_langs_below=4)](https://github.com/anuraghazra/github-readme-stats/)
 
