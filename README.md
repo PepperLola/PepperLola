@@ -111,16 +111,13 @@ Sunday       88 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     27 mins             ████████████████████████░   95.93% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             ████████████████████████░   95.93% 
-Neovim                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.07%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -141,7 +138,7 @@ Rust                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PepperLola/PepperLola/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/05/2022 01:57:39 UTC
+ Last Updated on 15/05/2022 01:57:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
