@@ -1,5 +1,6 @@
 # Hi, I'm PepperLola
-![Summary](https://raw.githubusercontent.com/PepperLola/PepperLola/master/github-metrics.svg)
+![Summary](https://raw.githubusercontent.com/PepperLola/PepperLola/master/github-metrics.svg)  
+![Profile Views](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PepperLola.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
 <details>
  <summary>Experience</summary>
  
@@ -60,8 +61,6 @@
 [![PepperLola's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepperLola&theme=dark&hide_langs_below=4)](https://github.com/anuraghazra/github-readme-stats/)
 
 ![Trophies!](https://github-profile-trophy.vercel.app/?username=PepperLola&theme=onedark&row=1&column=7)
-
-![Profile Views](https://komarev.com/ghpvc/?username=PepperLola)
 </details>
 
 <details>
