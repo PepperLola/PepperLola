@@ -1,6 +1,9 @@
 # Hi, I'm PepperLola
 ![Summary](https://raw.githubusercontent.com/PepperLola/PepperLola/master/github-metrics.svg)  
 ![Profile Views](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PepperLola.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
+![](https://img-tracking.vercel.app/api/github)
+<!--- only tracks visits, no unique information like IP at all, don't worry --->
+
 <details>
  <summary>Experience</summary>
  
