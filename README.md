@@ -70,13 +70,13 @@
  <summary>Programming Stats</summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 443.4 kB Used in GitHub's Storage 
+> 📦 443.5 kB Used in GitHub's Storage 
  > 
 > 🏆 90 Contributions in the Year 2023
  > 
@@ -111,17 +111,17 @@ Sunday                   276 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Lua                      6 hrs 48 mins       ████████████████░░░░░░░░░   62.64 % 
-Other                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Svelte                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-tmux                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-netrw                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Lua                      4 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.66 % 
+TypeScript               1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Svelte                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+tmux                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 52 mins      █████████████████████████   100.00 % 
+Neovim                   9 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -141,7 +141,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PepperLola/PepperLola/master/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2023 01:12:40 UTC
+ Last Updated on 15/04/2023 01:13:26 UTC
 <!--END_SECTION:waka-->
 </details>
 
