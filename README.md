@@ -76,7 +76,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 443.7 kB Used in GitHub's Storage 
+> 📦 443.8 kB Used in GitHub's Storage 
  > 
 > 🏆 109 Contributions in the Year 2023
  > 
@@ -111,17 +111,13 @@ Sunday                   289 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 54 mins        ████████████████████░░░░░   81.03 % 
-Java                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Kotlin                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-netrw                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -141,7 +137,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PepperLola/PepperLola/master/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2023 01:14:14 UTC
+ Last Updated on 10/05/2023 01:12:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
