@@ -70,7 +70,7 @@
  <summary>Programming Stats</summary>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
 
@@ -142,7 +142,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PepperLola/PepperLola/master/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2023 01:13:23 UTC
+ Last Updated on 19/05/2023 01:14:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
