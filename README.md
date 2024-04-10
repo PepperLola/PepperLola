@@ -1,4 +1,6 @@
 # Hi, I'm PepperLola
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2037%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.5%20million%20lines%20of%20code-blue)  
 ![Summary](https://raw.githubusercontent.com/PepperLola/PepperLola/master/github-metrics.svg)  
 ![](https://img-tracking.vercel.app/api/github)
 <!--- only tracks visits, no unique information like IP at all, don't worry --->
@@ -63,93 +65,4 @@
 [![PepperLola's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepperLola&theme=dark&hide_langs_below=4)](https://github.com/anuraghazra/github-readme-stats/)
 
 ![Trophies!](https://github-profile-trophy.vercel.app/?username=PepperLola&theme=onedark&row=1&column=7)
-</details>
-
-<details>
- <summary>Programming Stats</summary>
- 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2037%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.5%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 578.7 kB Used in GitHub's Storage 
- > 
-> 🏆 150 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 56 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                457 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-🌆 Daytime                1542 commits        ████████████░░░░░░░░░░░░░   48.63 % 
-🌃 Evening                963 commits         ████████░░░░░░░░░░░░░░░░░   30.37 % 
-🌙 Night                  209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Tuesday                  609 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Wednesday                500 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Thursday                 638 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Friday                   482 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Saturday                 223 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Sunday                   299 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       1 hr 56 mins        ████████████████████░░░░░   81.67 % 
-conf                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-GitIgnore file           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-gitignore                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-
-🔥 Editors: 
-Rider                    2 hrs 6 mins        ██████████████████████░░░   88.38 % 
-Neovim                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-
-💻 Operating System: 
-Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   34 repos            █████████░░░░░░░░░░░░░░░░   34.69 % 
-Java                     21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/PepperLola/PepperLola/master/assets/bar_graph.png)
-
-
- Last Updated on 23/06/2023 01:30:32 UTC
-<!--END_SECTION:waka-->
-</details>
-
-<details>
- <summary>Other</summary>
- 
- ### Hypixel
- 
- ![Hypixel Level](https://widgets.jerlshoba.com/hypixel/networkLevel.png?username=palight&width=512&height=64&fg=%23ffffff&bg=%232288ff&border=4&text_color=%232288ff&font_size=18&style=progress)
- 
 </details>
