@@ -707,7 +707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>badgeek/svg2shenzhen</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert Inkscape SVG drawings to KiCad PCB and footprint modules</div>
@@ -760,7 +760,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kovidgoyal/kitty</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform, fast, feature-rich, GPU based terminal</div>
@@ -916,7 +916,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jul 2024, 20:18:52 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jul 2024, 21:19:08 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
