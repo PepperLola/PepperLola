@@ -917,7 +917,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mstange/samply</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command-line sampling profiler for macOS and Linux</div>
@@ -970,7 +970,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danobi/prr</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mailing list style code reviews for github</div>
@@ -1126,7 +1126,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2024, 12:12:49 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2024, 13:18:51 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
