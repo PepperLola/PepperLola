@@ -1086,7 +1086,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actix/actix-web</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.</div>
@@ -1136,7 +1136,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2024, 09:22:17 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2024, 10:16:34 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
