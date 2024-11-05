@@ -950,7 +950,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>charmbracelet/glow</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Render markdown on the CLI, with pizzazz! 💅🏻</div>
@@ -1056,7 +1056,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>3b1b/manim</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Animation engine for explanatory math videos</div>
@@ -1109,7 +1109,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/cargo</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Rust package manager</div>
@@ -1159,7 +1159,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2024, 00:24:21 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2024, 01:19:51 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
