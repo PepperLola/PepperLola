@@ -960,7 +960,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vi/websocat</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions</div>
@@ -1013,7 +1013,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-unofficial/awesome-rust</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of Rust code and resources.</div>
@@ -1066,7 +1066,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dockur/windows</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows inside a Docker container.</div>
@@ -1119,7 +1119,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>exo-explore/exo</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚</div>
@@ -1169,7 +1169,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2024, 04:37:25 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2024, 05:25:17 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
