@@ -1006,7 +1006,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuxeh/aocf</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A CLI tool (and also crate) for Advent of Code (https://adventofcode.com/)</div>
@@ -1106,7 +1106,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Saghen/blink.cmp</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Performant, batteries-included completion plugin for Neovim</div>
@@ -1209,7 +1209,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 02:23:22 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 03:17:26 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
