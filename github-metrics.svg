@@ -662,7 +662,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BurntSushi/ripgrep</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ripgrep recursively searches directories for a regex pattern while respecting your gitignore</div>
@@ -821,7 +821,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nasa/fprime</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">F´ - A flight software and embedded systems framework</div>
@@ -871,7 +871,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2025, 22:27:20 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 23:17:49 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
