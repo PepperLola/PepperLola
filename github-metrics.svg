@@ -726,7 +726,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/monaco-editor</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A browser based code editor</div>
@@ -779,7 +779,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharkdp/bat</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cat(1) clone with wings.</div>
@@ -832,7 +832,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ventoy/Ventoy</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new bootable USB solution.</div>
@@ -935,7 +935,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2025, 01:24:15 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Mar 2025, 02:20:01 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
