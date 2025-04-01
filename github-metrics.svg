@@ -731,7 +731,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laysakura/trie-rs</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Memory efficient trie (prefix tree) library based on LOUDS</div>
@@ -784,7 +784,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/monaco-editor</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A browser based code editor</div>
@@ -940,7 +940,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2025, 00:21:24 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2025, 01:28:13 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
