@@ -736,7 +736,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rwf2/Rocket</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web framework for Rust.</div>
@@ -789,7 +789,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>petgraph/petgraph</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Graph data structure library for Rust.</div>
@@ -842,7 +842,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AutomaApp/automa</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A browser extension for automating your browser by connecting blocks</div>
@@ -945,7 +945,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2025, 01:24:49 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2025, 02:19:22 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
