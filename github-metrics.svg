@@ -691,7 +691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chaosprint/glicol</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Graph-oriented live coding language and music/audio DSP library written in Rust</div>
@@ -744,7 +744,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>opf/openproject</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenProject is the leading open source project management software.</div>
@@ -900,7 +900,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2025, 15:18:52 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Apr 2025, 16:20:48 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
