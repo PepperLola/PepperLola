@@ -692,7 +692,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jgraph/drawio-desktop</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official electron build of draw.io</div>
@@ -745,7 +745,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chaosprint/glicol</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Graph-oriented live coding language and music/audio DSP library written in Rust</div>
@@ -901,7 +901,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2025, 12:16:37 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Apr 2025, 13:21:03 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
