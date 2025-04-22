@@ -696,7 +696,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jkristell/infrared</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Infrared remote control library for embedded Rust</div>
@@ -749,7 +749,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>embassy-rs/embassy</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern embedded framework, using Rust and async.</div>
@@ -855,7 +855,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chaosprint/glicol</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Graph-oriented live coding language and music/audio DSP library written in Rust</div>
@@ -905,7 +905,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2025, 14:19:31 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2025, 15:20:10 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
