@@ -698,7 +698,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cargo-generate/cargo-generate</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">cargo, make me a project</div>
@@ -751,7 +751,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-embedded/heapless</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Heapless, `static` friendly data structures</div>
@@ -804,7 +804,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jkristell/infrared</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Infrared remote control library for embedded Rust</div>
@@ -857,7 +857,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>embassy-rs/embassy</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern embedded framework, using Rust and async.</div>
@@ -907,7 +907,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2025, 20:07:05 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Apr 2025, 21:25:11 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
