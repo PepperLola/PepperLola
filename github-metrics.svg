@@ -718,7 +718,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skim-rs/skim</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fuzzy Finder in rust!</div>
@@ -824,7 +824,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fivethirtyeight/data</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Data and code behind the articles and graphics at FiveThirtyEight</div>
@@ -927,7 +927,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2025, 23:27:34 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2025, 00:18:42 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
