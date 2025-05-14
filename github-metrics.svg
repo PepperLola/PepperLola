@@ -525,6 +525,7 @@
                                 <g transform="translate(285, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -548,7 +549,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>charmbracelet/bubbletea</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful little TUI framework 🏗</div>
@@ -601,7 +602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WolvenKit/WolvenKit</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Community Mod editor/creator for REDengine games.</div>
@@ -654,7 +655,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WolvenKit/Cyberpunk-Blender-add-on</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cyberpunk add-on for Blender bridges complex game assets with Blender.</div>
@@ -751,7 +752,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2025, 16:20:14 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 May 2025, 18:46:01 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
