@@ -30,14 +30,14 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -733,6 +733,9 @@
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(345, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                </g>
                             </g>
                         </svg>
                     </section>
@@ -755,7 +758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shell-pool/shpool</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Think tmux, then aim... lower</div>
@@ -914,7 +917,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skeletonlabs/skeleton</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Skeleton is an adaptive design system powered by Tailwind CSS.</div>
@@ -964,7 +967,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2025, 16:19:52 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jun 2025, 18:54:49 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
