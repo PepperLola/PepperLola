@@ -781,7 +781,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>traviscross/mtr</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official repository for mtr, a network diagnostic tool</div>
@@ -834,7 +834,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GraphiteEditor/Graphite</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">2D vector &amp; raster editor that melds traditional layers &amp; tools with a modern node-based, non-destructive, procedural workflow.</div>
@@ -887,7 +887,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carapace-sh/carapace-bin</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multi-shell completion binary.</div>
@@ -990,7 +990,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2025, 14:19:41 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2025, 15:20:01 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
