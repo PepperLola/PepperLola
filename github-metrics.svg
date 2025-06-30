@@ -785,7 +785,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamhosseindhv/notistack</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Highly customizable notification snackbars (toasts) that can be stacked on top of each other</div>
@@ -838,7 +838,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>compiler-explorer/compiler-explorer</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run compilers interactively from your web browser and interact with the assembly</div>
@@ -891,7 +891,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/rust-quiz</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Medium to hard Rust questions with explanations</div>
@@ -944,7 +944,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>medialab/xan</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The CSV magician</div>
@@ -994,7 +994,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2025, 13:24:07 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2025, 14:20:42 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
