@@ -785,7 +785,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>compiler-explorer/compiler-explorer</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run compilers interactively from your web browser and interact with the assembly</div>
@@ -838,7 +838,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/rust-quiz</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Medium to hard Rust questions with explanations</div>
@@ -891,7 +891,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>medialab/xan</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The CSV magician</div>
@@ -944,7 +944,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stanford-oval/storm</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.</div>
@@ -994,7 +994,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2025, 01:31:17 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2025, 02:26:54 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
