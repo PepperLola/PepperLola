@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -762,6 +762,7 @@
                                 </g>
                                 <g transform="translate(390, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -785,7 +786,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamhosseindhv/notistack</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Highly customizable notification snackbars (toasts) that can be stacked on top of each other</div>
@@ -838,7 +839,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>compiler-explorer/compiler-explorer</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run compilers interactively from your web browser and interact with the assembly</div>
@@ -891,7 +892,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtolnay/rust-quiz</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Medium to hard Rust questions with explanations</div>
@@ -944,7 +945,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>medialab/xan</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The CSV magician</div>
@@ -994,7 +995,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2025, 16:20:58 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jun 2025, 19:02:01 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
