@@ -337,7 +337,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 52.3 characters per line of code written</li>
+                        <li>Has approximately 41.5 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -824,7 +824,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webrtc-rs/webrtc</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pure Rust implementation of WebRTC</div>
@@ -983,7 +983,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenCut-app/OpenCut</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source CapCut alternative</div>
@@ -1033,7 +1033,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2025, 19:00:10 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jul 2025, 20:46:17 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
