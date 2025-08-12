@@ -840,7 +840,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gorhill/uBlock</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</div>
@@ -999,7 +999,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webrtc-rs/webrtc</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pure Rust implementation of WebRTC</div>
@@ -1049,7 +1049,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2025, 15:21:05 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2025, 16:21:19 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
