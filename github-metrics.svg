@@ -872,7 +872,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FluidInference/FluidAudio</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Native Swift and CoreML SDK for local speaker diarization, VAD, and speech-to-text for real-time workloads. Works on iOS and macOS.</div>
@@ -1081,7 +1081,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2025, 23:28:11 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Sept 2025, 00:17:46 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
