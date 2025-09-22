@@ -893,7 +893,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qpdf/qpdf</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">qpdf: A content-preserving PDF document transformer</div>
@@ -946,7 +946,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>foxcpp/maddy</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✉️ Composable all-in-one mail server.</div>
@@ -999,7 +999,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NginxProxyManager/nginx-proxy-manager</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker container for managing Nginx proxy hosts with a simple, powerful interface</div>
@@ -1103,7 +1103,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2025, 12:16:54 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2025, 13:22:28 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
