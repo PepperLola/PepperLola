@@ -895,7 +895,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bevyengine/bevy</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A refreshingly simple data-driven game engine built in Rust</div>
@@ -948,7 +948,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tldraw/tldraw</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">very good whiteboard SDK / infinite canvas SDK</div>
@@ -1104,7 +1104,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2025, 23:31:47 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2025, 00:20:52 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
