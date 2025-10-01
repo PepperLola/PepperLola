@@ -904,7 +904,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nextcloud/server</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☁️ Nextcloud server, a safe home for all your data</div>
@@ -957,7 +957,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ericchiang/pup</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Parsing HTML at the command line</div>
@@ -1113,7 +1113,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2025, 03:22:31 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2025, 04:18:39 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
