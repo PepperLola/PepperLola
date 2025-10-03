@@ -731,7 +731,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YeautyYE/ez-ffmpeg</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A safe and ergonomic Rust interface for FFmpeg integration, designed for ease of use.</div>
@@ -784,7 +784,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NationalSecurityAgency/ghidra</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ghidra is a software reverse engineering (SRE) framework</div>
@@ -940,7 +940,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2025, 12:16:22 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2025, 13:22:21 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
