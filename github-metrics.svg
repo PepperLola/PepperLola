@@ -912,7 +912,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>folke/neoconf.nvim</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💼 Neovim plugin to manage global and project-local settings</div>
@@ -965,7 +965,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>folke/edgy.nvim</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily create and manage predefined window layouts, bringing a new edge to your workflow</div>
@@ -1018,7 +1018,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ggerganov/wave-share</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serverless, peer-to-peer, local file sharing through sound</div>
@@ -1121,7 +1121,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2025, 15:19:09 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2025, 16:18:34 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
