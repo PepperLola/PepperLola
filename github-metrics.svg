@@ -912,7 +912,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ggerganov/wave-share</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Serverless, peer-to-peer, local file sharing through sound</div>
@@ -965,7 +965,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YeautyYE/ez-ffmpeg</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A safe and ergonomic Rust interface for FFmpeg integration, designed for ease of use.</div>
@@ -1121,7 +1121,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2025, 10:19:03 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2025, 11:31:37 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
