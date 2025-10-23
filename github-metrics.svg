@@ -733,6 +733,7 @@
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -756,7 +757,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diondokter/device-driver</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A toolkit to create better Rust device drivers, faster</div>
@@ -809,7 +810,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>helsing-ai/sguaba</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust crate that provides hard-to-misuse rigid body transforms (aka "spatial math") for engineers with other things to worry about than linear algebra.</div>
@@ -862,7 +863,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>carapace-sh/carapace</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multi-shell completion library.</div>
@@ -915,7 +916,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nanomsg/nng</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nanomsg-next-generation -- light-weight brokerless messaging</div>
@@ -965,7 +966,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2025, 16:18:26 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2025, 18:41:53 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
