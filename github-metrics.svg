@@ -757,7 +757,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diondokter/device-driver</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A toolkit to create better Rust device drivers, faster</div>
@@ -966,7 +966,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2025, 06:33:33 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2025, 07:22:43 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
