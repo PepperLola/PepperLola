@@ -758,7 +758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LukeMathWalker/cargo-chef</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.</div>
@@ -811,7 +811,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/sccache</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.</div>
@@ -864,7 +864,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FuzzyGrim/Yamtrack</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A self hosted media tracker.</div>
@@ -967,7 +967,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Oct 2025, 14:18:54 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Oct 2025, 15:20:19 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
