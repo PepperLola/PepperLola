@@ -816,7 +816,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LukeMathWalker/cargo-chef</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.</div>
@@ -972,7 +972,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Oct 2025, 11:31:54 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2025, 12:17:49 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
