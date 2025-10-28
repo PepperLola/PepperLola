@@ -764,7 +764,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zellij-org/zellij</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A terminal workspace with batteries included</div>
@@ -817,7 +817,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>folke/flash.nvim</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Navigate your code with search labels, enhanced character motions and Treesitter integration</div>
@@ -870,7 +870,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>folke/noice.nvim</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</div>
@@ -973,7 +973,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Oct 2025, 15:20:56 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Oct 2025, 16:19:59 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
