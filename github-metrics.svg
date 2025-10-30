@@ -766,7 +766,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leukipp/touchkio</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.</div>
@@ -975,7 +975,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2025, 13:24:12 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2025, 14:19:29 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
