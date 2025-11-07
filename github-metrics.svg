@@ -778,7 +778,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coder/code-server</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VS Code in the browser</div>
@@ -831,7 +831,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blakeblackshear/frigate</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVR with realtime local object detection for IP cameras</div>
@@ -884,7 +884,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dbeaver/dbeaver</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free universal database tool and SQL client</div>
@@ -987,7 +987,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2025, 14:20:06 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2025, 15:19:34 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
