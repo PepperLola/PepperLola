@@ -806,7 +806,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/buck2</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build system, successor to Buck</div>
@@ -859,7 +859,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orion-rs/orion</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Usable, easy and safe pure-Rust crypto</div>
@@ -1015,7 +1015,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2025, 11:17:17 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2025, 12:24:13 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
