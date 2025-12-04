@@ -813,7 +813,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/buck2</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build system, successor to Buck</div>
@@ -866,7 +866,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orion-rs/orion</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Usable, easy and safe pure-Rust crypto</div>
@@ -919,7 +919,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>traefik/traefik</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cloud Native Application Proxy</div>
@@ -972,7 +972,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>playcanvas/engine</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF</div>
@@ -1022,7 +1022,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2025, 10:36:33 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2025, 11:20:23 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
