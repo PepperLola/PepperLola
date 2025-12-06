@@ -868,7 +868,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orion-rs/orion</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Usable, easy and safe pure-Rust crypto</div>
@@ -921,7 +921,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>traefik/traefik</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cloud Native Application Proxy</div>
@@ -974,7 +974,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>playcanvas/engine</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF</div>
@@ -1024,7 +1024,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2025, 10:30:24 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2025, 11:17:37 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
