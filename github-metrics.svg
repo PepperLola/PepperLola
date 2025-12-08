@@ -819,7 +819,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pta2002/typst-timeliney</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create Gantt charts in Typst</div>
@@ -872,7 +872,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/buck2</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build system, successor to Buck</div>
@@ -925,7 +925,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orion-rs/orion</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Usable, easy and safe pure-Rust crypto</div>
@@ -978,7 +978,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>traefik/traefik</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cloud Native Application Proxy</div>
@@ -1028,7 +1028,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2025, 10:35:41 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Dec 2025, 11:19:27 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
