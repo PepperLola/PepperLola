@@ -825,7 +825,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openglobus/openglobus</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript/JavaScript 3D maps and geospatial data visualization engine library</div>
@@ -878,7 +878,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shapely/shapely</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manipulation and analysis of geometric objects</div>
@@ -1034,7 +1034,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2025, 21:22:28 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2025, 22:33:55 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
