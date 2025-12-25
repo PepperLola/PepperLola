@@ -840,7 +840,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>avr-rust/ruduino</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reusable components for the Arduino Uno.</div>
@@ -893,7 +893,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cognitive-engineering-lab/aquascope</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Interactive visualizations of Rust at compile-time and run-time</div>
@@ -946,7 +946,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facet-rs/facet</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need</div>
@@ -999,7 +999,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Pinperepette/MacPersistenceChecker</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">macOS persistence mechanism scanner with code signature verification and timeline tracking.</div>
@@ -1049,7 +1049,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Dec 2025, 11:18:27 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Dec 2025, 12:26:43 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
