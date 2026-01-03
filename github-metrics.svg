@@ -355,6 +355,7 @@
                             <g transform="translate(0, 14)">
                                 <text x="0" y="0">2026</text>
                                 <g transform="translate(0, 0)">
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
@@ -485,7 +486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JetBrains/JetBrainsRuntime</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux</div>
@@ -538,7 +539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rackarr/Rackarr</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visual rack layout designer for homelabbers</div>
@@ -588,7 +589,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2026, 15:22:02 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2026, 17:50:10 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
