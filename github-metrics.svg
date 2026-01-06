@@ -438,7 +438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libfuse/sshfs</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A network filesystem client to connect to SSH servers</div>
@@ -491,7 +491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>macfuse/macfuse</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">macFUSE umbrella repository</div>
@@ -538,7 +538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anomalyco/opentui</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenTUI is a library for building terminal user interfaces (TUIs)</div>
@@ -588,7 +588,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2026, 04:51:32 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2026, 05:39:45 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
