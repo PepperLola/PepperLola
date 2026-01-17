@@ -400,7 +400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brianc/node-postgres</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PostgreSQL client for node.js.</div>
@@ -453,7 +453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prisma/prisma</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</div>
@@ -609,7 +609,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2026, 23:22:07 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2026, 00:29:47 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
