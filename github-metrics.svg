@@ -414,7 +414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libp2p/rust-libp2p</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Rust Implementation of the libp2p networking stack.</div>
@@ -617,7 +617,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2026, 22:40:07 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jan 2026, 23:30:35 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
