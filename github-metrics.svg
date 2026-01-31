@@ -418,7 +418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GradleUp/shadow</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.</div>
@@ -524,7 +524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/esp-idf-svc</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)</div>
@@ -577,7 +577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tokio-rs/axum</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity</div>
@@ -627,7 +627,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2026, 10:37:05 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jan 2026, 11:22:59 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
