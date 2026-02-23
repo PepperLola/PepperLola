@@ -449,7 +449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>authelia/authelia</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™</div>
@@ -502,7 +502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wopss/RED4ext</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A script extender for REDengine 4 (Cyberpunk 2077).</div>
@@ -659,7 +659,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2026, 14:43:58 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Feb 2026, 15:36:01 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
