@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Minecraft-Radiance/Radiance</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring native Hardware Ray Tracing on Windows &amp; Linux. Break free from OpenGL limits for Minecraft.</div>
@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>doranchak/azdecrypt</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">azdecrypt is a fast and powerful hillclimbing classical cipher solver written in freebasic</div>
@@ -678,7 +678,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2026, 15:31:20 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2026, 16:31:40 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
