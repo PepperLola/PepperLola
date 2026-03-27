@@ -489,7 +489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-dnd/react-dnd</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Drag and Drop for React</div>
@@ -542,7 +542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-hook-form/react-hook-form</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📋 React Hooks for form state management and validation (Web + React Native)</div>
@@ -595,7 +595,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tabler/tabler-icons</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.</div>
@@ -698,7 +698,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Mar 2026, 00:13:03 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Mar 2026, 01:57:33 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
