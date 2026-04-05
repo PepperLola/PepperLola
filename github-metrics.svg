@@ -500,7 +500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seanmonstar/reqwest</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An easy and powerful Rust HTTP Client</div>
@@ -606,7 +606,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-hook-form/react-hook-form</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📋 React Hooks for form state management and validation (Web + React Native)</div>
@@ -659,7 +659,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tabler/tabler-icons</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.</div>
@@ -709,7 +709,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Apr 2026, 00:11:59 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Apr 2026, 01:49:37 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
