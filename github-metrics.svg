@@ -558,7 +558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>binwiederhier/ntfy</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Send push notifications to your phone or desktop using PUT/POST</div>
@@ -611,7 +611,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>drizzle-team/drizzle-orm</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ORM</div>
@@ -717,7 +717,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker-mailserver/docker-mailserver</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.</div>
@@ -767,7 +767,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2026, 17:10:16 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 May 2026, 22:03:15 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
