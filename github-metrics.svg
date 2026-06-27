@@ -605,7 +605,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jesseduffield/lazygit</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">simple terminal UI for git commands</div>
@@ -711,7 +711,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dlvhdr/gh-dash</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A rich terminal UI for GitHub that doesn't break your flow.</div>
@@ -814,7 +814,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2026, 14:06:33 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2026, 16:04:33 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
