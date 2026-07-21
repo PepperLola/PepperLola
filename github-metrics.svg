@@ -639,7 +639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>esp-rs/espup</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool for installing and maintaining Espressif Rust ecosystem.</div>
@@ -692,7 +692,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smart-leds-rs/smart-leds</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The end user crate for smart leds (like ws2812)</div>
@@ -848,7 +848,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2026, 06:56:57 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2026, 08:46:38 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
