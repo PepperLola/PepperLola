@@ -640,7 +640,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vadimdemedes/ink</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌈 React for interactive command-line apps</div>
@@ -693,7 +693,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>embedded-graphics/embedded-graphics</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A no_std graphics library for embedded applications</div>
@@ -849,7 +849,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2026, 03:27:21 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2026, 05:26:16 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
