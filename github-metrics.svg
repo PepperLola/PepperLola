@@ -667,7 +667,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BiagioFesta/wtransport</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Async-friendly WebTransport implementation in Rust</div>
@@ -826,7 +826,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ongardie/raft.tla</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TLA+ specification for the Raft consensus algorithm</div>
@@ -870,7 +870,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2026, 21:48:45 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2026, 23:16:06 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
