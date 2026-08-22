@@ -679,7 +679,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>azaleacolburn/sonder</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Static Pointer Analyzer and Transpiler from C to Safe Rust</div>
@@ -785,7 +785,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BiagioFesta/wtransport</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Async-friendly WebTransport implementation in Rust</div>
@@ -888,7 +888,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2026, 09:27:13 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Aug 2026, 10:22:47 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
