@@ -758,7 +758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>da-luce/astroterm</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐</div>
@@ -920,7 +920,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-cross/cargo-zigbuild</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Compile Cargo project with zig as linker</div>
@@ -970,7 +970,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2026, 18:20:33 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2026, 00:16:31 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
